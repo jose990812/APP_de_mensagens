@@ -1,4 +1,4 @@
-# 🤖 Automação de Busca e Envio WhatsApp
+#  Automação de Busca e Envio WhatsApp
 
 Aplicação desktop desenvolvida em Python com interface gráfica moderna que permite buscar números por cidade e enviar mensagens automaticamente via WhatsApp.
 
