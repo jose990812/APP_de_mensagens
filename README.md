@@ -36,6 +36,7 @@ A aplicação possui uma interface moderna com estilo futurista, facilitando o u
 ---
 
 ##  Estrutura do projeto
+```
 /projeto
 ├── app.py
 ├── assets/
@@ -47,6 +48,7 @@ A aplicação possui uma interface moderna com estilo futurista, facilitando o u
 ├── foto5.png
 ├── foto6.png
 └── README.md
+```
 
 ##  Como executar o projeto
 
