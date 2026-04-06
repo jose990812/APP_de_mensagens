@@ -53,12 +53,13 @@ A aplicação possui uma interface moderna com estilo futurista, facilitando o u
 ##  Como executar o projeto
 
 ### 1. Instalar dependências
-
+```
 pip install pandas pyautogui customtkinter pyperclip
-
+```
 ## 2. Executar o sistema
+```
 python app.py
-
+```
 
 ## Como funciona
 1- O usuário digita uma cidade
